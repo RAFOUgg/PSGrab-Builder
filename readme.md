@@ -17,7 +17,7 @@ The victim token will automatically be sent to the specified webhook.
 	Add the grabber to a registry key to start him at startup.
 
 * Do you want to compil the output :
-	Automatically compile the powershell grabber file to an executable file.
+	Automatically compile the powershell grabber file to an executable file.<br>
 	(Script written in powershell will be removed with this option.)
 
 
