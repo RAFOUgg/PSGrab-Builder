@@ -8,9 +8,10 @@ The victim token will automatically be sent to the specified webhook.
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/956244677147897986/961921538930667550/unknown.png", width="480", height="196">
 </p>
-<p align="center">It has several options:</p>
 
 -----
+
+<p align="center">It has several options:</p>
 
 * Make the file persistent : 
 	Add the grabber to a registry key to start him at startup.
