@@ -1,5 +1,7 @@
+<p align="center">
 PSGrab - Builder is an builder of discord token grabber written in powershell.
 The victim token will automatically be sent to the specified webhook.
+</p>
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/956244677147897986/961921538930667550/unknown.png", width="480", height="196">
