@@ -11,7 +11,7 @@ The victim token will automatically be sent to the specified webhook.
 
 -----
 
-<p align="center">It has several options:</p>
+<p align="center">**It has several options:**</p>
 
 * Make the file persistent : 
 	Add the grabber to a registry key to start him at startup.
